@@ -39,9 +39,9 @@ My personal portfolio site with a futuristic loader and rising hero section.
 
 ## 📊 GitHub Stats
 
-![Akansha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RanaAkansha&show_icons=true&theme=gruvbox)
+![Akansha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RanaAkansha&show_icons=true&theme=onedark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RanaAkansha&layout=compact&theme=gruvbox)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RanaAkansha&layout=compact&theme=onedark)
 
 ---
 
