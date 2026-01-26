@@ -49,9 +49,8 @@ My personal portfolio site with a futuristic loader and rising hero section.
 
 - 🌌 I love exploring the universe and learning about dark energy 🪐
 - 🧠 I believe complex topics should be explained in a **simple & relatable** way.
-- 💻 I’m currently building my portfolio with Figma - and code!
+- 💻 I’m currently building my skills in AI/ML.
 - ✨ I believe in two things: Keep Learning & Never Settle 🔥
-  
 
 ---
 
