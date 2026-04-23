@@ -1,69 +1,112 @@
-# 👋 Hey there, I'm Akansha Rana!
+# 👋 HELLO WORLD! I am Akansha Rana.  
+**Frontend Developer · UI/UX Enthusiast · Computer Science Student**
 
-🌟 Frontend Developer | 🎨 UI/UX Enthusiast | 👩‍🎓 Computer Science Student  
-🚀 Turning ideas into clean, modern, and responsive web experiences.
-
----
-
-## 🔗 Connect With Me
-
-- **Portfolio:** [akansharana.dev](https://akansharana.vercel.app/)
-- **Email:** akansharana0620@gmail.com
-- **LinkedIn:** [linkedin.com/in/akansha-rana](https://www.linkedin.com/in/akansha-rana)
-- **GitHub:** [github.com/RanaAkansha](https://github.com/RanaAkansha)
+I design and build responsive, user-focused web interfaces that combine clean aesthetics with functional performance.  
+Focused on crafting intuitive experiences using modern frontend tools and thoughtful UI patterns.
 
 ---
 
-## 💼 Featured Projects
+## 🌐 Portfolio
 
-### 🌍 [News Sphere](https://github.com/RanaAkansha/news-sphere)
-A fast and simple news site connected to YouTube Shorts.  
-**Tech Used:** HTML, Tailwind CSS, JavaScript  
-**Highlights:** Clean layout, mobile responsive, short-form video-friendly
+🔗 **Live:** https://akansharana.vercel.app/  
 
----
-
-### ✈️ [Travel Guide Website](https://github.com/RanaAkansha/travel-guide)
-Interactive travel guide with glassmorphism and animated hover effects.  
-**Tech Used:** HTML, CSS (Vanilla)  
-**Highlights:** Split hover sections, large destination images, animated layout
+Explore my work, animations, and design approach in detail.
 
 ---
 
-### 💼 [Portfolio Website](https://github.com/RanaAkansha/portfolio)
-My personal portfolio site with a futuristic loader and rising hero section.  
-**Tech Used:** Tailwind CSS, JavaScript  
-**Highlights:** Animated loading screen, "Never Settle" hero section, responsive
+## 📬 Contact
+
+- 📧 akansharana0620@gmail.com  
+- 💼 https://www.linkedin.com/in/akansha-rana  
+- 🧑‍💻 https://github.com/RanaAkansha  
+
+---
+
+## 🚀 Featured Work
+
+### 📰 News Sphere  
+A fast, minimal news platform integrated with short-form video content.
+
+**Tech Stack:** HTML · Tailwind CSS · JavaScript  
+
+**Key Features:**
+- Clean, distraction-free UI for content consumption  
+- Mobile-first responsive layout  
+- Integrated short-form (YouTube Shorts-style) experience  
+- Optimized loading and layout structure  
+
+🔗 https://github.com/RanaAkansha/news-sphere  
+
+---
+
+### ✈️ Travel Guide Website  
+A visually rich travel interface built with modern UI aesthetics.
+
+**Tech Stack:** HTML · CSS  
+
+**Key Features:**
+- Glassmorphism-based UI design  
+- Interactive hover transitions  
+- Section-based immersive layout  
+- Strong visual hierarchy using large imagery  
+
+🔗 https://github.com/RanaAkansha/travel-guide  
+
+---
+
+### 💼 Portfolio Website  
+A personal portfolio showcasing projects, motion design, and frontend skills.
+
+**Tech Stack:** Tailwind CSS · JavaScript  
+
+**Key Features:**
+- Custom animated loader for enhanced UX  
+- Dynamic hero section ("Never Settle")  
+- Smooth transitions and interactive elements  
+- Fully responsive across devices  
+
+🔗 https://github.com/RanaAkansha/portfolio  
+
+---
+
+## 🧠 Skills
+
+**Frontend:**  
+HTML · CSS · Tailwind CSS · JavaScript  
+
+**Design & UX:**  
+Responsive Design · UI Systems · Visual Hierarchy · Interaction Design  
+
+**Currently Learning:**  
+AI/ML · Advanced JavaScript · Performance Optimization  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Akansha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RanaAkansha&show_icons=true&theme=onedark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RanaAkansha&show_icons=true&theme=onedark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RanaAkansha&layout=compact&theme=onedark)
 
 ---
 
-## 🎉 Fun Facts About Me
+## ⚡ What I Focus On
 
-- 🌌 I love exploring the universe and learning about dark energy 🪐
-- 🧠 I believe complex topics should be explained in a **simple & relatable** way.
-- 💻 I’m currently building my skills in AI/ML.
-- ✨ I believe in two things: Keep Learning & Never Settle 🔥
-
----
-
-## 🤝 Let's Collaborate!
-
-I'm open to working on:
-- 💻 Website design and development projects
-- 🎨 UI/UX improvements and audits
-- 🧪 Small creative experiments in web animation and interaction
-
-Got an idea? Let’s connect — [akansharana0620@gmail.com](mailto:akansharana0620@gmail.com)
+- Building clean and scalable UI  
+- Creating smooth and meaningful interactions  
+- Writing structured and maintainable code  
+- Turning complex ideas into simple user experiences  
 
 ---
 
-> _“Design is not just what it looks like and feels like. Design is how it works.”_ — Steve Jobs
+## 🤝 Open To
 
+- Frontend Development Opportunities  
+- UI/UX Design Improvements  
+- Creative Web Projects & Collaborations  
+
+---
+
+## ✨ Philosophy
+
+> Keep Learning. Keep Building. Never Settle.
