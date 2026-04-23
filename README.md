@@ -1,5 +1,5 @@
 # 👋 HELLO WORLD! I am Akansha Rana.  
-**Frontend Developer · UI/UX Enthusiast · Computer Science Student**
+**Full Stack Developer · UI/UX Enthusiast · Computer Science Student**
 
 I design and build responsive, user-focused web interfaces that combine clean aesthetics with functional performance.  
 Focused on crafting intuitive experiences using modern frontend tools and thoughtful UI patterns.
