@@ -7,7 +7,7 @@
 
 ## 🔗 Connect With Me
 
-- **Portfolio:** [akansharana.dev](https://akansharana.dev)
+- **Portfolio:** [akansharana.dev](https://akansharana.vercel.app/)
 - **Email:** akansharana0620@gmail.com
 - **LinkedIn:** [linkedin.com/in/akansha-rana](https://www.linkedin.com/in/akansha-rana)
 - **GitHub:** [github.com/RanaAkansha](https://github.com/RanaAkansha)
