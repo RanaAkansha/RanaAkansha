@@ -68,18 +68,6 @@ A full-stack collaboration platform enabling agencies and clients to manage proj
 
 ---
 
-## GitHub Profile Finder
-
-**React • Tailwind CSS • GitHub REST API**
-
-Search GitHub users and explore repositories, followers, and profile statistics through the GitHub REST API.
-
-🔗 Live Demo: *(Add Link)*
-
-📂 Repository: *(Add Link)*
-
----
-
 # Tech Stack
 
 ### Frontend
