@@ -1,6 +1,6 @@
 # Hi, I'm Akansha Rana 👋
 
-**Frontend & Full Stack Developer building software that solves real business problems.**
+**Full Stack Developer building software that solves real business problems.**
 
 I enjoy designing and developing modern web applications with React, Node.js, Express, and PostgreSQL. My focus is on building production-ready products with clean user experiences, scalable architectures, and practical business value.
 
